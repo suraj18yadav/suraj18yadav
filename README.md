@@ -3,11 +3,12 @@
 
 ---
 
-### 🌟 About Me  
-- 🔌 Exploring the world of **Automation & Control Systems**  
-- 🧠 Currently learning **PLC • SCADA • HMI • VFD • AutoCAD Electrical**  
-- ⚡ Love designing **industrial circuits & automation projects**  
-- 🎯 Goal: Become a skilled **Automation Engineer** and work on real-world industrial systems  
+### 🚀 About Me
+- Recently completed **RLC Training** for hands-on practical knowledge.  
+- Currently learning **PLC • SCADA • HMI • VFD • AutoCAD Electrical**.  
+- Basics of **MATLAB** for simulation and analysis.  
+- Interested in designing and implementing **industrial automation projects**.  
+- Goal: Become a skilled **Automation Engineer** and contribute to smart manufacturing systems.  
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suraj-yadav-1a5729293/) | [Portfolio](#)  
 
@@ -31,12 +32,28 @@
 
 ---
 
-### 🛠️ Tools & Technologies  
-- **Programming:** C, Python, Ladder Logic  
-- **Simulation & Design:** MATLAB, Simulink, AutoCAD Electrical  
-- **Hardware:** PLC, Arduino, 8085 Microprocessor, Raspberry Pi  
-- **Power Systems:** Transmission & Distribution, VFDs, Smart Grids  
-- **Other:** Git, GitHub, MS Office  
+### 🛠️ Tools & Technologies
+#### 🖥️ Industrial Automation
+- **PLC Programming** (Siemens, Allen-Bradley, Delta simulators)  
+- **SCADA Systems** (WinCC, Factory I/O)  
+- **HMI Design** (Siemens HMI, Delta DOPSoft)  
+- **VFD Configuration** (ABB, Delta)  
+
+#### ⚡ Electrical Design
+- **AutoCAD Electrical**  
+- **EPLAN Electric P8 (Basics)**  
+- **Electrical Panel & Circuit Design**  
+
+#### 💻 Programming & Simulation
+- **MATLAB (Basics)**  
+- **Ladder Logic (LD)**  
+- **Arduino (for automation prototypes)**  
+- **Proteus / Tinkercad (Simulation Tools)**  
+
+#### 🧰 General Tools
+- Microsoft Excel, Word, PowerPoint  
+- Git & GitHub  
+  
 
 ---
 
@@ -66,19 +83,29 @@
 
 ---
 
-### 💬 Fun Facts & Interests  
-⚡ Love exploring real power plants & automation labs  
-⚡ Enjoy making mini-projects with Arduino & PLC  
-⚡ Big fan of clean ladder logic designs 😅  
+### ⚡ Fun Fact
+- I enjoy troubleshooting circuits more than watching movies 😅  
+- I once spent hours fixing a motor connection — and loved every minute of it!  
+- I believe automation can make life simpler *and* smarter.  
+
+### 🎯 Interests
+- Industrial Automation & Control Systems  
+- Electrical Design & Simulation  
+- Smart Manufacturing and IoT  
+- PLC Programming Challenges  
+- Creating technical content & sharing knowledge  
+- Exploring new automation tools and technologies  
 
 ---
 
 ### 💡 Quote  
-*"Electricity is the most powerful servant — if you know how to control it."* — Suraj  
+*"Automation is the bridge between imagination and implementation."* — Suraj  
 
 ---
 
 ### ⚡ Tips for Visitors  
-⭐ Feel free to ⭐ any repo you find interesting  
-💬 Open an issue if you want to contribute  
-🚀 Connect with me on LinkedIn for collaborations  
+### ⚙️ Tips for Visitors
+- 🚀 Explore my automation projects and tutorials in PLC, SCADA, and AutoCAD Electrical.  
+- 💭 If you have feedback or ideas, I’d love to hear from you!  
+- ⭐ If you like a project, give it a **star** — it motivates me to keep creating.  
+- 🤝 Interested in collaborating? Connect with me on LinkedIn or contribute to a repo.  
