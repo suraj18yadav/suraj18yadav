@@ -1,15 +1,14 @@
 👋 Hey, I'm Suraj Yadav  
-⚡ B.Tech Electrical Engineering | Power Systems & Automation Enthusiast | Building Real Projects  
+⚡ B.Tech Electrical Engineering |  **Passionate about Industrial Automation**   | Building Real Projects  
 
 ---
 
 ### 🌟 About Me  
-🎓 Electrical Engineering Student @ Jagannath University, Jaipur (2023–2027)  
-🧠 Passionate about Power Systems, PLC Automation, and Renewable Energy  
-🔍 Exploring: Smart Grids, Industrial Automation, Embedded Systems, IoT in Power  
-🌍 Based in India  
-💻 Working with: PLC (LogixPro), MATLAB, Arduino, C, Python, AutoCAD Electrical  
-💬 Ask me about Power System Basics, PLC Programming, Microprocessors, Electrical Machines  
+- 🔌 Exploring the world of **Automation & Control Systems**  
+- 🧠 Currently learning **PLC • SCADA • HMI • VFD • AutoCAD Electrical**  
+- ⚡ Love designing **industrial circuits & automation projects**  
+- 🎯 Goal: Become a skilled **Automation Engineer** and work on real-world industrial systems  
+
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/suraj-yadav-1a5729293/) | [Portfolio](#)  
 
 ---
@@ -26,15 +25,15 @@
 | Sl. No | Project Name              | Project Link | Used Technologies                        | Progress |
 |--------|----------------------------|-------------|------------------------------------------|----------|
 | 1      | Smart Home Automation      | GitHub      | Arduino, C, IoT, Relays, Sensors         | 🟢🟢🟢🟢⚪ 1% |
-| 2      | PLC Traffic Light System   | GitHub      | LogixPro, Ladder Logic                   | 🟢🟢🟢🟢⚪ 4% |
-| 3      | Power System Simulator     | GitHub      | MATLAB, Simulink, Control Systems        | 🟢🟢🟢⚪⚪ 2% |
+| 2      | PLC Traffic Light System   | GitHub      | LogixPro, Ladder Logic                   | 🟢🟢🟢🟢⚪ 50% |
+| 3      | Power System Simulator     | GitHub      | MATLAB, Simulink, Control Systems        | 🟢🟢🟢⚪⚪ 30% |
 | 4      | Solar Energy Monitoring    | GitHub      | Python, IoT, Embedded C, Sensors         | 🟢🟢🟢🟢⚪ 1% |
 
 ---
 
 ### 🛠️ Tools & Technologies  
 - **Programming:** C, Python, Ladder Logic  
-- **Simulation & Design:** MATLAB, Simulink, AutoCAD Electrical, Proteus  
+- **Simulation & Design:** MATLAB, Simulink, AutoCAD Electrical  
 - **Hardware:** PLC, Arduino, 8085 Microprocessor, Raspberry Pi  
 - **Power Systems:** Transmission & Distribution, VFDs, Smart Grids  
 - **Other:** Git, GitHub, MS Office  
@@ -50,13 +49,15 @@
 ### 🏅 Certifications & Learning  
 📁 Certificates  
 - PLC Programming (LogixPro / Siemens / Allen Bradley)  
-- MATLAB for Engineers  
-- IoT Applications in Electrical Systems  
+ 
 
-🧪 Currently Learning  
-- Smart Grid Optimization  
-- Industrial Automation (SCADA + PLC)  
-- Renewable Energy Systems  
+🧪 Currently Learning    
+- PLC Programming  
+- SCADA Systems  
+- HMI Design  
+- VFD Configuration  
+- AutoCAD Electrical  
+   
 
 📚 Recent Courses & Achievements  
 - Power System Protection Basics  
